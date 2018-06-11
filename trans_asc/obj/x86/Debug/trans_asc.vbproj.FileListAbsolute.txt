@@ -1,0 +1,9 @@
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\bin\Debug\trans_asc.exe
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\bin\Debug\trans_asc.pdb
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\bin\Debug\trans_asc.xml
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\obj\x86\Debug\trans_asc.Form1.resources
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\obj\x86\Debug\trans_asc.Resources.resources
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\obj\x86\Debug\trans_asc.vbproj.GenerateResource.Cache
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\obj\x86\Debug\trans_asc.exe
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\obj\x86\Debug\trans_asc.xml
+E:\VergiL\Desktop\WORK\Khanbank\trans_asc\trans_asc\obj\x86\Debug\trans_asc.pdb
